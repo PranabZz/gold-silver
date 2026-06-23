@@ -1,9 +1,12 @@
-{
-    "source": "FENEGOSIDA",
-    "currency": "NPR",
-    "unit": "1 tola",
-    "rates": {
-        "fine_gold_9999": "287100",
-        "silver": "4590"
+[
+    {
+        "source": "FENEGOSIDA",
+        "currency": "NPR",
+        "unit": "1 tola",
+        "rates": {
+            "fine_gold_9999": "287100",
+            "silver": "4590"
+        },
+        "time_stamp": "2026-06-23"
     }
-}
+]
