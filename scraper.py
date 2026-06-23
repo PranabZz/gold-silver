@@ -49,7 +49,7 @@ def fetch_rates():
                 "fine_gold_9999": gold_price,
                 "silver": silver_price,
             },
-            "time_stamp": today,
+            "timestamp": today,
         }
 
         file_path = "rates.json"
