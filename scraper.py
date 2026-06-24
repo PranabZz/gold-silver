@@ -93,7 +93,6 @@ def fetch_rates():
                 return
 
         new_record = {
-            "time_stamp": datetime.utcnow().isoformat(),
             "source": "FENEGOSIDA",
             "currency": "NPR",
             "unit": "1 tola",
@@ -101,6 +100,7 @@ def fetch_rates():
                 "fine_gold_9999": gold_price,
                 "silver": silver_price,
             },
+            "timestamp": datetime.utcnow().date().isoformat(),
         }
 
         rates.append(new_record)
@@ -119,7 +119,7 @@ def fetch_rates():
     except Exception as e:
         error_data = {
             "error": str(e),
-            "time_stamp": datetime.utcnow().isoformat(),
+            "timestamp": datetime.utcnow().isoformat(),
         }
 
         print(
