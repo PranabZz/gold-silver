@@ -1,12 +1,82 @@
 [
-    {
-        "time_stamp": "2026-06-24T03:09:07.754989",
-        "source": "FENEGOSIDA",
-        "currency": "NPR",
-        "unit": "1 tola",
-        "rates": {
-            "fine_gold_9999": 287100,
-            "silver": 4590
-        }
-    }
+  {
+    "source": "FENEGOSIDA",
+    "currency": "NPR",
+    "unit": "1 tola",
+    "rates": {
+      "fine_gold_9999": "298200",
+      "silver": "5015"
+    },
+    "timestamp": "2026-06-15"
+  },
+  {
+    "source": "FENEGOSIDA",
+    "currency": "NPR",
+    "unit": "1 tola",
+    "rates": {
+      "fine_gold_9999": "298500",
+      "silver": "4990"
+    },
+    "timestamp": "2026-06-16"
+  },
+  {
+    "source": "FENEGOSIDA",
+    "currency": "NPR",
+    "unit": "1 tola",
+    "rates": {
+      "fine_gold_9999": "297300",
+      "silver": "4980"
+    },
+    "timestamp": "2026-06-17"
+  },
+  {
+    "source": "FENEGOSIDA",
+    "currency": "NPR",
+    "unit": "1 tola",
+    "rates": {
+      "fine_gold_9999": "297200",
+      "silver": "4945"
+    },
+    "timestamp": "2026-06-18"
+  },
+  {
+    "source": "FENEGOSIDA",
+    "currency": "NPR",
+    "unit": "1 tola",
+    "rates": {
+      "fine_gold_9999": "286700",
+      "silver": "4640"
+    },
+    "timestamp": "2026-06-19"
+  },
+  {
+    "source": "FENEGOSIDA",
+    "currency": "NPR",
+    "unit": "1 tola",
+    "rates": {
+      "fine_gold_9999": "287300",
+      "silver": "4690"
+    },
+    "timestamp": "2026-06-21"
+  },
+  {
+    "source": "FENEGOSIDA",
+    "currency": "NPR",
+    "unit": "1 tola",
+    "rates": {
+      "fine_gold_9999": "288700",
+      "silver": "4730"
+    },
+    "timestamp": "2026-06-22"
+  },
+  {
+    "source": "FENEGOSIDA",
+    "currency": "NPR",
+    "unit": "1 tola",
+    "rates": {
+      "fine_gold_9999": "287100",
+      "silver": "4590"
+    },
+    "timestamp": "2026-06-23"
+  }
 ]
