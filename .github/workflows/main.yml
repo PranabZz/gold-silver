@@ -2,7 +2,7 @@ name: Daily Rate Scraper
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Every 2 hours (UTC)
+    - cron: '45 4 * * *' # Every day at 10:30 AM Nepal Time (04:45 UTC)
   workflow_dispatch:
 
 permissions:
