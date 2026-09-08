@@ -463,5 +463,20 @@
         "silver": 4690
       }
     }
+  },
+  {
+    "source": "FENEGOSIDA",
+    "currency": "NPR",
+    "timestamp": "2026-09-08",
+    "rates": {
+      "10g": {
+        "fine_gold_9999": 261830,
+        "silver": 4106.5
+      },
+      "1 tola": {
+        "fine_gold_9999": 305400,
+        "silver": 4790
+      }
+    }
   }
 ]
